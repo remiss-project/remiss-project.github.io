@@ -2103,6 +2103,12 @@ input, select, textarea {
 			display: block;
 		}
 
+		.logos img {
+			border-radius: 0px;
+			display: block;
+			width: 600px;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
